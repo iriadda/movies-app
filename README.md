@@ -23,7 +23,7 @@ TMDb API
 1. Clone the repository
 
     ```  
-    git clone https://github.com/your-username/movies-app.git
+    git clone https://github.com/iriadda/movies-app
    cd movies-app
    ```
 2. Install dependencies
