@@ -1,0 +1,16 @@
+
+.genre-badge {
+    font-size: 14px;
+    transition: 0.3s ease;
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.genre-badge:hover {
+    color: #01b4e4;
+}
+
+.genre-badge.active {
+    color: #00b4e5;
+    font-weight: bold;
+}
