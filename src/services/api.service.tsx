@@ -6,7 +6,7 @@ export const axiosInstance = axios.create({
     baseURL: baseUrl,
     headers: {
         'Content-Type': 'application/json',
-        'authorization': `Bearer +${auth}`,
+        'authorization': `Bearer ${auth}`,
     },
 });
 
